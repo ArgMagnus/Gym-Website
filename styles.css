@@ -1,0 +1,99 @@
+nav {
+  height: 90px; 
+   background-color: #264653; 
+  color: antiquewhite;
+  border: none;
+  margin: none;
+  padding: none;
+}
+.n {
+  display: flex;
+  justify-content: space-around;
+}
+.join {
+  background-color: #792511;
+  text-align: center;
+  height: 85.4px;
+  padding: 0px 50px 0px 50px;
+  border: solid #792511;
+  font-family: "Delicious Handrawn", cursive;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.join:hover {
+  background-color: #e63946;
+  border: solid antiquewhite;
+}
+.e {
+    font-family: "Delicious Handrawn", cursive;
+    font-family: "Roboto Condensed", sans-serif;
+  padding: 20px 0px;
+}
+.e:hover {
+  color: #e63946;
+}
+.log {
+  padding: 20px 100px 20px 0px;
+  font-weight: bold;
+  color: #ffff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.nbar {
+  font-size: 30px;
+}
+.bulk {
+  background-image: url("04run-gym-superJumbo.jpg");
+  height: 750px;
+    margin: none;
+    border: none;
+    padding: none;
+}
+.text{
+    font-size: 50px;
+    text-align: right;
+    color: #e63946;
+    font-family: "Delicious Handrawn", cursive;
+    font-family: "Roboto Condensed", sans-serif;
+    padding:100px 10px 10px  ;
+}
+.training{
+    color: #1d3557;
+}
+.tough{
+    display: flex;
+    justify-content: center;
+}
+.login{
+     margin: 70px 50px;
+    font-size: 30px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: antiquewhite;
+    background-color: #e63946;
+    width: 200px;
+    text-align: center;
+    height: 50px;
+    padding: 20px 50px 10px ;
+    border-radius: 2%;
+}
+.login:hover{
+    border: solid white;
+}
+.l{
+    background: transparent;
+    border: solid #fb5607;
+    color: #fb5607;
+}
+.l:hover{
+    background-color: #fb5607;
+    color:white;
+}
+select{
+    background: transparent;
+    font-size: 20px;
+    font-family: "Delicious Handrawn", cursive;
+    font-family: "Roboto Condensed", sans-serif;
+    color:#e63946;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
